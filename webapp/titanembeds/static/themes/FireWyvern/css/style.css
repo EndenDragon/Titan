@@ -25,7 +25,7 @@ background-color: rgb(255,95,20);
 .btn:visited{
 background-color: rgb(255,95,20);
 }
-.btn:hover {
+.btn:hover, .btn-large:hover {
 background-color: orange
 }
 .btn:active{
