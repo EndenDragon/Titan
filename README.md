@@ -43,7 +43,7 @@ Visit us over at our [CrowdIn project](http://translate.titanembeds.com/) and te
 This project is never to be used as a replacement for Discord app. It is used in conjunction for a quick and dirty Discord embed for websites. Some uses are via shoutboxes, etc.
 
 ## Badges
-### Upvote us on DiscordBots.org
-[![DiscordBots.org](https://discordbots.org/api/widget/299403260031139840.png "Upvote us on DiscordBots.org!")](https://discordbots.org/bot/299403260031139840)
+### Upvote us on TOP.GG
+[![DiscordBots.org](https://top.gg/api/widget/299403260031139840.png "Upvote us on TOP.GG!")](https://top.gg/bot/299403260031139840)
 ### We proudly test our embeds to ensure a cross browser compatibility
 [![BrowserStack](https://i.imgur.com/nlMHPwl.png)](https://www.browserstack.com/)
