@@ -25,10 +25,10 @@
                       {% else %}
                       <br>
                       {% endif %}
-                      <em>Eg: {{ param.name }}={{ param.example }}</em>
+                      <em>Eg: {{ param.example }}</em>
                       {% if "administrate_guild" in request.url %}
                       <br>
-                      <input class="queryparam" name="{{ param.name }}" type="text" style="background-color: #F9F8F6;" placeholder="{{ param.example }}">
+                      <input class="queryparam" name="{{ param.name }}" type="text" style="background-color: #F9F8F6;">
                       {% endif %}
                     </li>
                     {% endfor %}
